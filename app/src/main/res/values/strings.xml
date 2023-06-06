@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">about_me</string>
+    <string name="description">Hola, soy Jorge Suárez. Apasionado de la programación, decidí convertirme en desarrollador Android, comenzando este nuevo camino con muchas ganas y entusiasmo, aprendiendo cosas nuevas cada día.</string>
+    <string name="experience_title">Años de experiencia</string>
+    <string name="experience">0.1</string>
+    <string name="motivation_lvl_title">Nivel de Motivación</string>
+    <string name="motivation_high">Alta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

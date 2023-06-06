@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.About_me" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSecondary">@color/white</item>
+    </style>
+
+    <style name="VisualModeButton" parent="Base.Theme.About_me">
+        <item name="android:src">@drawable/ic_light_mode</item>
+    </style>
+</resources>
